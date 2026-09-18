@@ -155,6 +155,14 @@ Contributions, suggestions, and improvements are welcome. Feel free to open issu
 
 ---
 
+## 📖 Published As
+
+**Enhancing Crop Prediction with Explainable AI: A SHAP-Based Approach**
+
+2025 International Conference on Modeling, Simulation & Intelligent Computing (MoSICom) — DOI: [10.1109/MoSICom67153.2025.11398280](https://ieeexplore.ieee.org/abstract/document/11398280)
+
+---
+
 ## 📧 Co-Authors
 
 This project was developed collaboratively as a research effort by three co-authors:
